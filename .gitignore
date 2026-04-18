@@ -1,0 +1,13 @@
+# Ignore common Windows / user folders
+../*
+AnypointStudio/
+AppData/
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+env/
+venv/
+node_modules/
+*.log
